@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 工具导航 - 发现最新人工智能工具 | AI Tools Navigator</title>
+    <meta name="description" content="聚合全球最新 AI 工具，包括 AI 写作、AI 绘画、AI 编程、AI 聊天等。每日自动更新，发现最好用的人工智能工具。">
+    <meta name="keywords" content="AI工具,人工智能,ChatGPT,AI写作,AI绘画,AI编程,AI导航">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="AI 工具导航 - 发现最新人工智能工具">
+    <meta property="og:description" content="聚合全球最新 AI 工具，每日自动更新">
+    <meta property="og:type" content="website">
+    
+    <!-- AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
+    
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        :root {
+            --primary: #667eea;
+            --primary-dark: #5a67d8;
+            --secondary: #764ba2;
+            --bg: #f7fafc;
+            --card-bg: #ffffff;
+            --text: #2d3748;
+            --text-light: #718096;
+            --border: #e2e8f0;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+        }
+        
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+        
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-top: 30px;
+            flex-wrap: wrap;
+        }
+        
+        .stat-item {
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 2rem;
+            font-weight: 700;
+        }
+        
+        .stat-label {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+        
+        /* Search */
+        .search-section {
+            max-width: 600px;
+            margin: -25px auto 40px;
+            padding: 0 20px;
+            position: relative;
+            z-index: 10;
+        }
+        
+        .search-box {
+            display: flex;
+            background: white;
+            border-radius: 50px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .search-box input {
+            flex: 1;
+            border: none;
+            padding: 15px 25px;
+            font-size: 1rem;
+            outline: none;
+        }
+        
+        .search-box button {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: background 0.2s;
+        }
+        
+        .search-box button:hover {
+            background: var(--primary-dark);
+        }
+        
+        /* Container */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px 40px;
+        }
+        
+        /* Ad Slots */
+        .ad-slot {
+            background: #f0f0f0;
+            border: 2px dashed #ccc;
+            padding: 30px;
+            text-align: center;
+            margin: 30px 0;
+            border-radius: 12px;
+            color: #999;
+        }
+        
+        /* Categories */
+        .category {
+            margin: 40px 0;
+        }
+        
+        .category-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--border);
+        }
+        
+        .category h2 {
+            font-size: 1.5rem;
+            color: var(--text);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .category-count {
+            background: var(--primary);
+            color: white;
+            font-size: 0.8rem;
+            padding: 2px 10px;
+            border-radius: 20px;
+        }
+        
+        /* Tools Grid */
+        .tools-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        
+        .tool-card {
+            background: var(--card-bg);
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            transition: all 0.3s ease;
+            border: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .tool-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.12);
+            border-color: var(--primary);
+        }
+        
+        .tool-header {
+            display: flex;
+            align-items: flex-start;
+            gap: 15px;
+            margin-bottom: 12px;
+        }
+        
+        .tool-icon {
+            width: 50px;
+            height: 50px;
+            border-radius: 12px;
+            object-fit: cover;
+            background: var(--bg);
+            flex-shrink: 0;
+        }
+        
+        .tool-icon-placeholder {
+            width: 50px;
+            height: 50px;
+            border-radius: 12px;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 1.5rem;
+            flex-shrink: 0;
+        }
+        
+        .tool-title {
+            flex: 1;
+        }
+        
+        .tool-title h3 {
+            font-size: 1.1rem;
+            margin-bottom: 4px;
+            color: var(--text);
+        }
+        
+        .tool-source {
+            font-size: 0.75rem;
+            color: var(--text-light);
+            text-transform: uppercase;
+        }
+        
+        .tool-description {
+            color: var(--text-light);
+            font-size: 0.95rem;
+            line-height: 1.5;
+            margin-bottom: 15px;
+            flex: 1;
+        }
+        
+        .tool-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .tool-date {
+            font-size: 0.8rem;
+            color: var(--text-light);
+        }
+        
+        .tool-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: color 0.2s;
+        }
+        
+        .tool-link:hover {
+            color: var(--primary-dark);
+        }
+        
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-light);
+            border-top: 1px solid var(--border);
+            margin-top: 40px;
+        }
+        
+        .footer p {
+            margin: 5px 0;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8rem;
+            }
+            
+            .stats {
+                gap: 20px;
+            }
+            
+            .tools-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        /* Hidden class for search */
+        .hidden {
+            display: none !important;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <h1>🤖 AI 工具导航</h1>
+        <p>发现最新人工智能工具，每日自动更新。聚合 AI 写作、AI 绘画、AI 编程等各类实用工具。</p>
+        <div class="stats">
+            <div class="stat-item">
+                <div class="stat-number">3</div>
+                <div class="stat-label">收录工具</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">3</div>
+                <div class="stat-label">分类</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">2026/3/19</div>
+                <div class="stat-label">最后更新</div>
+            </div>
+        </div>
+    </header>
+    
+    <div class="search-section">
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="搜索 AI 工具...">
+            <button onclick="searchTools()">搜索</button>
+        </div>
+    </div>
+    
+    <main class="container">
+        <!-- 顶部广告位 -->
+        <div class="ad-slot">
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+                 data-ad-slot="XXXXXXXXXX"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <p>广告位 - 请替换为你的 AdSense 代码</p>
+        </div>
+        
+        
+        <section class="category" data-category="AI聊天">
+            <div class="category-header">
+                <h2>
+                    💬
+                    AI聊天
+                    <span class="category-count">1</span>
+                </h2>
+            </div>
+            <div class="tools-grid">
+                
+                <article class="tool-card" data-name="chatgpt" data-desc="openai 开发的 ai 聊天机器人，能进行自然对话、写作、编程辅助等">
+                    <div class="tool-header">
+                        
+                        <div class="tool-icon-placeholder" >C</div>
+                        <div class="tool-title">
+                            <h3>ChatGPT</h3>
+                            <span class="tool-source">demo</span>
+                        </div>
+                    </div>
+                    <p class="tool-description">OpenAI 开发的 AI 聊天机器人，能进行自然对话、写作、编程辅助等</p>
+                    <div class="tool-footer">
+                        <span class="tool-date">1月1日</span>
+                        <a href="https://chat.openai.com" target="_blank" rel="nofollow noopener" class="tool-link">
+                            访问网站 →
+                        </a>
+                    </div>
+                </article>
+                
+            </div>
+        </section>
+        
+        <section class="category" data-category="AI图像">
+            <div class="category-header">
+                <h2>
+                    🎨
+                    AI图像
+                    <span class="category-count">1</span>
+                </h2>
+            </div>
+            <div class="tools-grid">
+                
+                <article class="tool-card" data-name="midjourney" data-desc="ai 图像生成工具，通过文本描述创建高质量艺术作品">
+                    <div class="tool-header">
+                        
+                        <div class="tool-icon-placeholder" >M</div>
+                        <div class="tool-title">
+                            <h3>Midjourney</h3>
+                            <span class="tool-source">demo</span>
+                        </div>
+                    </div>
+                    <p class="tool-description">AI 图像生成工具，通过文本描述创建高质量艺术作品</p>
+                    <div class="tool-footer">
+                        <span class="tool-date">1月1日</span>
+                        <a href="https://www.midjourney.com" target="_blank" rel="nofollow noopener" class="tool-link">
+                            访问网站 →
+                        </a>
+                    </div>
+                </article>
+                
+            </div>
+        </section>
+        
+        <section class="category" data-category="AI编程">
+            <div class="category-header">
+                <h2>
+                    💻
+                    AI编程
+                    <span class="category-count">1</span>
+                </h2>
+            </div>
+            <div class="tools-grid">
+                
+                <article class="tool-card" data-name="github copilot" data-desc="ai 编程助手，提供代码补全、建议和自动生成功能">
+                    <div class="tool-header">
+                        
+                        <div class="tool-icon-placeholder" >G</div>
+                        <div class="tool-title">
+                            <h3>GitHub Copilot</h3>
+                            <span class="tool-source">demo</span>
+                        </div>
+                    </div>
+                    <p class="tool-description">AI 编程助手，提供代码补全、建议和自动生成功能</p>
+                    <div class="tool-footer">
+                        <span class="tool-date">1月1日</span>
+                        <a href="https://github.com/features/copilot" target="_blank" rel="nofollow noopener" class="tool-link">
+                            访问网站 →
+                        </a>
+                    </div>
+                </article>
+                
+            </div>
+        </section>
+        
+        
+        <!-- 底部广告位 -->
+        <div class="ad-slot">
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+                 data-ad-slot="XXXXXXXXXX"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <p>广告位 - 请替换为你的 AdSense 代码</p>
+        </div>
+    </main>
+    
+    <footer class="footer">
+        <p>🤖 AI Tools Navigator - 自动采集，每日更新</p>
+        <p>数据来源：Product Hunt、GitHub 等</p>
+        <p>最后更新：2026/3/19 10:42:13</p>
+    </footer>
+    
+    <script>
+        // 搜索功能
+        function searchTools() {
+            const query = document.getElementById('searchInput').value.toLowerCase().trim();
+            const cards = document.querySelectorAll('.tool-card');
+            const categories = document.querySelectorAll('.category');
+            
+            if (!query) {
+                cards.forEach(card => card.classList.remove('hidden'));
+                categories.forEach(cat => cat.classList.remove('hidden'));
+                return;
+            }
+            
+            cards.forEach(card => {
+                const name = card.dataset.name;
+                const desc = card.dataset.desc;
+                if (name.includes(query) || desc.includes(query)) {
+                    card.classList.remove('hidden');
+                } else {
+                    card.classList.add('hidden');
+                }
+            });
+            
+            // 隐藏没有匹配工具的分类
+            categories.forEach(cat => {
+                const visibleCards = cat.querySelectorAll('.tool-card:not(.hidden)');
+                if (visibleCards.length === 0) {
+                    cat.classList.add('hidden');
+                } else {
+                    cat.classList.remove('hidden');
+                }
+            });
+        }
+        
+        // 回车搜索
+        document.getElementById('searchInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') searchTools();
+        });
+        
+        // 初始化 AdSense
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</body>
+</html>
