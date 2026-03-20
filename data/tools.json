@@ -10,7 +10,7 @@
     "date_added": "2024-01-01T00:00:00"
   },
   {
-    "id": "demo_2", 
+    "id": "demo_2",
     "name": "Midjourney",
     "description": "AI 图像生成工具，通过文本描述创建高质量艺术作品",
     "url": "https://www.midjourney.com",
@@ -28,5 +28,17 @@
     "category": "AI编程",
     "source": "demo",
     "date_added": "2024-01-01T00:00:00"
+  },
+  {
+    "id": "github_1167169128",
+    "name": "AI-Account-Toolkit",
+    "description": "ChatGPT 批量自动注册工具 - 支持 DuckMail + Codex + CPA 面板",
+    "url": "https://github.com/adminlove520/AI-Account-Toolkit",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-03-20T04:16:46.298984",
+    "stars": 601,
+    "language": "Python"
   }
 ]
