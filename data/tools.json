@@ -40,5 +40,29 @@
     "date_added": "2026-03-20T04:16:46.298984",
     "stars": 601,
     "language": "Python"
+  },
+  {
+    "id": "github_782778473",
+    "name": "mksshare.github.io",
+    "description": "每日分享免费节点、免费机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点",
+    "url": "https://github.com/mksshare/mksshare.github.io",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-03-23T04:31:19.604409",
+    "stars": 1363,
+    "language": null
+  },
+  {
+    "id": "github_1073337396",
+    "name": "claude-code-plugins-plus-skills",
+    "description": "340 plugins + 1367 agent skills for Claude Code. Open-source marketplace with CCPI package manager, ",
+    "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-03-23T04:31:20.022057",
+    "stars": 1689,
+    "language": "Python"
   }
 ]
