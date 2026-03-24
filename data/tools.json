@@ -64,5 +64,41 @@
     "date_added": "2026-03-23T04:31:20.022057",
     "stars": 1689,
     "language": "Python"
+  },
+  {
+    "id": "github_871139643",
+    "name": "mkshare3.github.io",
+    "description": "每日分享免费节点、免费机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点",
+    "url": "https://github.com/mkshare3/mkshare3.github.io",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-03-24T04:22:35.003996",
+    "stars": 215,
+    "language": null
+  },
+  {
+    "id": "github_1177608268",
+    "name": "Auto-claude-code-research-in-sleep",
+    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cros",
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-03-24T04:22:35.496809",
+    "stars": 3463,
+    "language": "Python"
+  },
+  {
+    "id": "github_633927609",
+    "name": "promptfoo",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare p",
+    "url": "https://github.com/promptfoo/promptfoo",
+    "image": "",
+    "category": "AI其他",
+    "source": "github",
+    "date_added": "2026-03-24T04:22:35.891781",
+    "stars": 18309,
+    "language": "TypeScript"
   }
 ]
