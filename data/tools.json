@@ -100,5 +100,17 @@
     "date_added": "2026-03-24T04:22:35.891781",
     "stars": 18309,
     "language": "TypeScript"
+  },
+  {
+    "id": "github_1119829225",
+    "name": "fanqiang",
+    "description": "翻墙、免费翻墙、科学上网、免费科学上网、免费节点、自由上网、一键翻墙浏览器、免费翻墙、免费shadowsocks/ss/ssr/v2ray/hysteria/hysteria2/vmess/vless",
+    "url": "https://github.com/Alvin9999-newpac/fanqiang",
+    "image": "",
+    "category": "AI聊天",
+    "source": "github",
+    "date_added": "2026-03-25T04:23:46.931302",
+    "stars": 1163,
+    "language": "Shell"
   }
 ]
