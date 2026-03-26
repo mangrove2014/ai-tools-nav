@@ -112,5 +112,17 @@
     "date_added": "2026-03-25T04:23:46.931302",
     "stars": 1163,
     "language": "Shell"
+  },
+  {
+    "id": "github_1160134919",
+    "name": "codex-proxy",
+    "description": "OpenAI-compatible proxy for ChatGPT Codex Responses API",
+    "url": "https://github.com/icebear0828/codex-proxy",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-03-26T04:35:16.749173",
+    "stars": 455,
+    "language": "TypeScript"
   }
 ]
