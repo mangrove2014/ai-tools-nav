@@ -124,5 +124,17 @@
     "date_added": "2026-03-26T04:35:16.749173",
     "stars": 455,
     "language": "TypeScript"
+  },
+  {
+    "id": "github_782778365",
+    "name": "abshare.github.io",
+    "description": "每日分享免费节点、免费机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点",
+    "url": "https://github.com/abshare/abshare.github.io",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-03-28T04:23:34.067235",
+    "stars": 925,
+    "language": null
   }
 ]
