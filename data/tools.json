@@ -136,5 +136,17 @@
     "date_added": "2026-03-28T04:23:34.067235",
     "stars": 925,
     "language": null
+  },
+  {
+    "id": "github_620551205",
+    "name": "chatgpt-widescreen",
+    "description": "🖥️ Award-winning extension to enhance ChatGPT with wide/full/tall-screen + spamblock modes. Also wor",
+    "url": "https://github.com/adamlui/chatgpt-widescreen",
+    "image": "",
+    "category": "AI聊天",
+    "source": "github",
+    "date_added": "2026-03-31T04:38:23.446191",
+    "stars": 196,
+    "language": "JavaScript"
   }
 ]
