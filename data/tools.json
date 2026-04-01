@@ -148,5 +148,17 @@
     "date_added": "2026-03-31T04:38:23.446191",
     "stars": 196,
     "language": "JavaScript"
+  },
+  {
+    "id": "github_1128025899",
+    "name": "9router",
+    "description": "Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline",
+    "url": "https://github.com/decolua/9router",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-04-01T04:49:18.684092",
+    "stars": 1555,
+    "language": "JavaScript"
   }
 ]
