@@ -160,5 +160,41 @@
     "date_added": "2026-04-01T04:49:18.684092",
     "stars": 1555,
     "language": "JavaScript"
+  },
+  {
+    "id": "github_1145977416",
+    "name": "OpenClawChineseTranslation",
+    "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discor",
+    "url": "https://github.com/1186258278/OpenClawChineseTranslation",
+    "image": "",
+    "category": "AI聊天",
+    "source": "github",
+    "date_added": "2026-04-02T04:31:55.567647",
+    "stars": 3604,
+    "language": "JavaScript"
+  },
+  {
+    "id": "github_750368232",
+    "name": "aicommit2",
+    "description": "A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Clau",
+    "url": "https://github.com/tak-bro/aicommit2",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-04-02T04:31:55.567670",
+    "stars": 498,
+    "language": "TypeScript"
+  },
+  {
+    "id": "github_1155025406",
+    "name": "mesh-llm",
+    "description": "reference impl with llama.cpp compiled to distributed inference across machines, with real end to en",
+    "url": "https://github.com/michaelneale/mesh-llm",
+    "image": "",
+    "category": "AI其他",
+    "source": "github",
+    "date_added": "2026-04-02T04:31:56.050187",
+    "stars": 195,
+    "language": "Rust"
   }
 ]
