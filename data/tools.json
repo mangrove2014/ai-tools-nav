@@ -196,5 +196,17 @@
     "date_added": "2026-04-02T04:31:56.050187",
     "stars": 195,
     "language": "Rust"
+  },
+  {
+    "id": "github_1126473386",
+    "name": "claude-hud",
+    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ",
+    "url": "https://github.com/jarrodwatts/claude-hud",
+    "image": "",
+    "category": "AI写作",
+    "source": "github",
+    "date_added": "2026-04-04T04:20:55.001687",
+    "stars": 16650,
+    "language": "JavaScript"
   }
 ]
