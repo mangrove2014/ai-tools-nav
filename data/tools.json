@@ -208,5 +208,17 @@
     "date_added": "2026-04-04T04:20:55.001687",
     "stars": 16650,
     "language": "JavaScript"
+  },
+  {
+    "id": "github_1142998259",
+    "name": "learn-skills.dev",
+    "description": "Curated high-quality AI Agent Skills. Search, install, copy and share. Works with Claude Code, Curso",
+    "url": "https://github.com/NeverSight/learn-skills.dev",
+    "image": "",
+    "category": "AI写作",
+    "source": "github",
+    "date_added": "2026-04-05T04:39:23.738864",
+    "stars": 113,
+    "language": null
   }
 ]
