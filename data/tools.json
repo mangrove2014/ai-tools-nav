@@ -220,5 +220,17 @@
     "date_added": "2026-04-05T04:39:23.738864",
     "stars": 113,
     "language": null
+  },
+  {
+    "id": "github_1198604352",
+    "name": "cheetahclaws",
+    "description": "CheetahClaws (Nano Claude Code): A Fast, Easy-to-Use, Python-Native Personal AI Assistant for Any Mo",
+    "url": "https://github.com/SafeRL-Lab/cheetahclaws",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-04-11T04:24:11.974836",
+    "stars": 500,
+    "language": "Python"
   }
 ]
