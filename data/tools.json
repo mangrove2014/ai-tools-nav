@@ -232,5 +232,29 @@
     "date_added": "2026-04-11T04:24:11.974836",
     "stars": 500,
     "language": "Python"
+  },
+  {
+    "id": "github_693749706",
+    "name": "Theo-Docs",
+    "description": "流媒体与 AI 解锁指南，涵盖 Netflix、Disney+、Spotify、YouTube Premium 及 ChatGPT、Gemini/日常记录/ESXI/OpenWrt/VPS指南/银河录",
+    "url": "https://github.com/s-theo/Theo-Docs",
+    "image": "",
+    "category": "AI聊天",
+    "source": "github",
+    "date_added": "2026-04-14T04:47:17.990127",
+    "stars": 804,
+    "language": "TypeScript"
+  },
+  {
+    "id": "github_977593093",
+    "name": "local-llms-on-android",
+    "description": "Run large language models like Qwen and LLaMA locally on Android for offline, private, real-time que",
+    "url": "https://github.com/dineshsoudagar/local-llms-on-android",
+    "image": "",
+    "category": "AI聊天",
+    "source": "github",
+    "date_added": "2026-04-14T04:47:18.505816",
+    "stars": 125,
+    "language": "Kotlin"
   }
 ]
