@@ -256,5 +256,17 @@
     "date_added": "2026-04-14T04:47:18.505816",
     "stars": 125,
     "language": "Kotlin"
+  },
+  {
+    "id": "github_1184985376",
+    "name": "rails-ai-context",
+    "description": "38 MCP tools that give AI agents live access to your Rails schema, models, routes & conventions. Wor",
+    "url": "https://github.com/crisnahine/rails-ai-context",
+    "image": "",
+    "category": "AI写作",
+    "source": "github",
+    "date_added": "2026-04-20T05:15:19.576517",
+    "stars": 122,
+    "language": "Ruby"
   }
 ]
