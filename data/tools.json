@@ -268,5 +268,17 @@
     "date_added": "2026-04-20T05:15:19.576517",
     "stars": 122,
     "language": "Ruby"
+  },
+  {
+    "id": "github_637639667",
+    "name": "Awesome-Plugins",
+    "description": "Awesome-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and ",
+    "url": "https://github.com/targed/Awesome-Plugins",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-04-21T04:50:12.105576",
+    "stars": 149,
+    "language": "JSON"
   }
 ]
