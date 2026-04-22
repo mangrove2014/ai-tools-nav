@@ -280,5 +280,17 @@
     "date_added": "2026-04-21T04:50:12.105576",
     "stars": 149,
     "language": "JSON"
+  },
+  {
+    "id": "github_620554063",
+    "name": "chatgpt-auto-refresh",
+    "description": "↻ Keeps ChatGPT sessions fresh, eliminating chat time limits + network errors + Cloudflare checks",
+    "url": "https://github.com/adamlui/chatgpt-auto-refresh",
+    "image": "",
+    "category": "AI聊天",
+    "source": "github",
+    "date_added": "2026-04-22T04:48:20.994171",
+    "stars": 208,
+    "language": "JavaScript"
   }
 ]
