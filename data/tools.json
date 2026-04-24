@@ -292,5 +292,17 @@
     "date_added": "2026-04-22T04:48:20.994171",
     "stars": 208,
     "language": "JavaScript"
+  },
+  {
+    "id": "github_728399986",
+    "name": "PurpleLlama",
+    "description": "Set of tools to assess and improve LLM security.",
+    "url": "https://github.com/meta-llama/PurpleLlama",
+    "image": "",
+    "category": "AI其他",
+    "source": "github",
+    "date_added": "2026-04-24T04:56:31.785868",
+    "stars": 4133,
+    "language": "Python"
   }
 ]
