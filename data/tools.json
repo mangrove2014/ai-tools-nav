@@ -304,5 +304,41 @@
     "date_added": "2026-04-24T04:56:31.785868",
     "stars": 4133,
     "language": "Python"
+  },
+  {
+    "id": "github_612354784",
+    "name": "llama.cpp",
+    "description": "LLM inference in C/C++",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "image": "",
+    "category": "AI其他",
+    "source": "github",
+    "date_added": "2026-04-27T05:26:34.764071",
+    "stars": 106807,
+    "language": "C++"
+  },
+  {
+    "id": "github_867433720",
+    "name": "llama-swap",
+    "description": "Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc",
+    "url": "https://github.com/mostlygeek/llama-swap",
+    "image": "",
+    "category": "AI其他",
+    "source": "github",
+    "date_added": "2026-04-27T05:26:34.764123",
+    "stars": 3667,
+    "language": "Go"
+  },
+  {
+    "id": "github_617868717",
+    "name": "llama-cpp-python",
+    "description": "Python bindings for llama.cpp",
+    "url": "https://github.com/abetlen/llama-cpp-python",
+    "image": "",
+    "category": "AI其他",
+    "source": "github",
+    "date_added": "2026-04-27T05:26:34.764142",
+    "stars": 10239,
+    "language": "Python"
   }
 ]
