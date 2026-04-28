@@ -340,5 +340,17 @@
     "date_added": "2026-04-27T05:26:34.764142",
     "stars": 10239,
     "language": "Python"
+  },
+  {
+    "id": "github_1107929306",
+    "name": "proxypal",
+    "description": "A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with",
+    "url": "https://github.com/heyhuynhgiabuu/proxypal",
+    "image": "",
+    "category": "AI视频",
+    "source": "github",
+    "date_added": "2026-04-28T05:33:04.167691",
+    "stars": 1130,
+    "language": "TypeScript"
   }
 ]
