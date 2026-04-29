@@ -352,5 +352,17 @@
     "date_added": "2026-04-28T05:33:04.167691",
     "stars": 1130,
     "language": "TypeScript"
+  },
+  {
+    "id": "github_1187782802",
+    "name": "travel-hacking-toolkit",
+    "description": "AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for ",
+    "url": "https://github.com/borski/travel-hacking-toolkit",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-04-29T05:28:46.169237",
+    "stars": 447,
+    "language": "Python"
   }
 ]
