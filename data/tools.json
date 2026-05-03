@@ -376,5 +376,17 @@
     "date_added": "2026-04-30T05:32:44.075881",
     "stars": 2030,
     "language": "JavaScript"
+  },
+  {
+    "id": "github_968860519",
+    "name": "g4f.dev",
+    "description": "g4f.dev – free and convenient AI endpoints you can use directly in your apps, scripts, and even righ",
+    "url": "https://github.com/gpt4free/g4f.dev",
+    "image": "",
+    "category": "AI聊天",
+    "source": "github",
+    "date_added": "2026-05-03T05:32:48.015982",
+    "stars": 139,
+    "language": "HTML"
   }
 ]
