@@ -388,5 +388,53 @@
     "date_added": "2026-05-03T05:32:48.015982",
     "stars": 139,
     "language": "HTML"
+  },
+  {
+    "id": "github_522158088",
+    "name": "CowAgent",
+    "description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenCl",
+    "url": "https://github.com/zhayujie/CowAgent",
+    "image": "",
+    "category": "AI聊天",
+    "source": "github",
+    "date_added": "2026-05-05T05:16:47.944486",
+    "stars": 44007,
+    "language": "Python"
+  },
+  {
+    "id": "github_1175591394",
+    "name": "entroly",
+    "description": "Entroly-Daemon: Self-Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer'",
+    "url": "https://github.com/juyterman1000/entroly",
+    "image": "",
+    "category": "AI写作",
+    "source": "github",
+    "date_added": "2026-05-05T05:16:48.277804",
+    "stars": 336,
+    "language": "Python"
+  },
+  {
+    "id": "github_715727362",
+    "name": "Llama-Unreal",
+    "description": "Llama.cpp plugin for Unreal Engine 5",
+    "url": "https://github.com/getnamo/Llama-Unreal",
+    "image": "",
+    "category": "AI其他",
+    "source": "github",
+    "date_added": "2026-05-05T05:16:48.610774",
+    "stars": 164,
+    "language": "C++"
+  },
+  {
+    "id": "github_820758892",
+    "name": "ik_llama.cpp",
+    "description": "llama.cpp fork with additional SOTA quants and improved performance",
+    "url": "https://github.com/ikawrakow/ik_llama.cpp",
+    "image": "",
+    "category": "AI其他",
+    "source": "github",
+    "date_added": "2026-05-05T05:16:48.610795",
+    "stars": 2313,
+    "language": "C++"
   }
 ]
