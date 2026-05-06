@@ -436,5 +436,17 @@
     "date_added": "2026-05-05T05:16:48.610795",
     "stars": 2313,
     "language": "C++"
+  },
+  {
+    "id": "github_637307394",
+    "name": "SMILE-factory",
+    "description": "Finetune Falcon, LLaMA, MPT, and RedPajama on consumer hardware using PEFT LoRA",
+    "url": "https://github.com/leehanchung/SMILE-factory",
+    "image": "",
+    "category": "AI音频",
+    "source": "github",
+    "date_added": "2026-05-06T05:31:30.149199",
+    "stars": 105,
+    "language": "Python"
   }
 ]
