@@ -448,5 +448,17 @@
     "date_added": "2026-05-06T05:31:30.149199",
     "stars": 105,
     "language": "Python"
+  },
+  {
+    "id": "github_722915433",
+    "name": "SwanLab",
+    "description": "⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Clou",
+    "url": "https://github.com/SwanHubX/SwanLab",
+    "image": "",
+    "category": "AI图像",
+    "source": "github",
+    "date_added": "2026-05-08T04:54:42.222468",
+    "stars": 3907,
+    "language": "Python"
   }
 ]
