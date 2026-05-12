@@ -460,5 +460,17 @@
     "date_added": "2026-05-08T04:54:42.222468",
     "stars": 3907,
     "language": "Python"
+  },
+  {
+    "id": "github_989134268",
+    "name": "inspector",
+    "description": "Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps, and ChatGPT apps.",
+    "url": "https://github.com/MCPJam/inspector",
+    "image": "",
+    "category": "AI聊天",
+    "source": "github",
+    "date_added": "2026-05-12T05:40:17.638770",
+    "stars": 1937,
+    "language": "TypeScript"
   }
 ]
