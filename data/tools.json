@@ -472,5 +472,29 @@
     "date_added": "2026-05-12T05:40:17.638770",
     "stars": 1937,
     "language": "TypeScript"
+  },
+  {
+    "id": "github_1193364497",
+    "name": "spool",
+    "description": "Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) ",
+    "url": "https://github.com/spool-lab/spool",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-05-13T05:51:04.586635",
+    "stars": 488,
+    "language": "TypeScript"
+  },
+  {
+    "id": "github_1223170290",
+    "name": "open-design",
+    "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ",
+    "url": "https://github.com/nexu-io/open-design",
+    "image": "",
+    "category": "AI图像",
+    "source": "github",
+    "date_added": "2026-05-13T05:51:04.586658",
+    "stars": 38644,
+    "language": "TypeScript"
   }
 ]
