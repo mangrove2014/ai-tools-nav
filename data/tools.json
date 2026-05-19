@@ -496,5 +496,17 @@
     "date_added": "2026-05-13T05:51:04.586658",
     "stars": 38644,
     "language": "TypeScript"
+  },
+  {
+    "id": "github_745546184",
+    "name": "awesome-prompts",
+    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, promp",
+    "url": "https://github.com/ai-boost/awesome-prompts",
+    "image": "",
+    "category": "AI聊天",
+    "source": "github",
+    "date_added": "2026-05-19T06:10:45.639728",
+    "stars": 7934,
+    "language": null
   }
 ]
