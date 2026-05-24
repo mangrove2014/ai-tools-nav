@@ -508,5 +508,29 @@
     "date_added": "2026-05-19T06:10:45.639728",
     "stars": 7934,
     "language": null
+  },
+  {
+    "id": "github_1003992831",
+    "name": "clash",
+    "description": "机场推荐：Clash机场与节点订阅实测，稳定科学上网线路，支持 ChatGPT/Claude/Gemini、Netflix/YouTube/TikTok 解锁，含优惠码。",
+    "url": "https://github.com/OpenNetCN/clash",
+    "image": "",
+    "category": "AI聊天",
+    "source": "github",
+    "date_added": "2026-05-24T06:03:43.821993",
+    "stars": 319,
+    "language": null
+  },
+  {
+    "id": "github_871146740",
+    "name": "toshare5.github.io",
+    "description": "每日分享免费节点、免费机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点",
+    "url": "https://github.com/toshare5/toshare5.github.io",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-05-24T06:03:43.822021",
+    "stars": 209,
+    "language": null
   }
 ]
