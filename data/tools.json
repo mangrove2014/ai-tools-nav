@@ -532,5 +532,17 @@
     "date_added": "2026-05-24T06:03:43.822021",
     "stars": 209,
     "language": null
+  },
+  {
+    "id": "github_1095330682",
+    "name": "LLMKube",
+    "description": "Kubernetes operator for local LLM inference with llama.cpp, vLLM, TGI, and mlx-server — multi-GPU NV",
+    "url": "https://github.com/defilantech/LLMKube",
+    "image": "",
+    "category": "AI其他",
+    "source": "github",
+    "date_added": "2026-05-26T06:09:30.446696",
+    "stars": 110,
+    "language": "Go"
   }
 ]
