@@ -544,5 +544,17 @@
     "date_added": "2026-05-26T06:09:30.446696",
     "stars": 110,
     "language": "Go"
+  },
+  {
+    "id": "github_1118209602",
+    "name": "vllm-studio",
+    "description": "Control panel for VLLM, Sglang, llama.cpp, exllamav3",
+    "url": "https://github.com/sybil-solutions/vllm-studio",
+    "image": "",
+    "category": "AI其他",
+    "source": "github",
+    "date_added": "2026-05-27T06:23:11.863420",
+    "stars": 1040,
+    "language": "TypeScript"
   }
 ]
