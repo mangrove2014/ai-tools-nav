@@ -556,5 +556,17 @@
     "date_added": "2026-05-27T06:23:11.863420",
     "stars": 1040,
     "language": "TypeScript"
+  },
+  {
+    "id": "github_1217345178",
+    "name": "ima2-gen",
+    "description": "Minimal CLI + web UI for OpenAI GPT Image 2 generation. Dual auth: API Key (paid) or OAuth via ChatG",
+    "url": "https://github.com/lidge-jun/ima2-gen",
+    "image": "",
+    "category": "AI写作",
+    "source": "github",
+    "date_added": "2026-05-29T06:16:34.967586",
+    "stars": 275,
+    "language": "TypeScript"
   }
 ]
