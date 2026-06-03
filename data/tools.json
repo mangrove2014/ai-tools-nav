@@ -580,5 +580,17 @@
     "date_added": "2026-05-30T05:50:32.270746",
     "stars": 390,
     "language": null
+  },
+  {
+    "id": "github_1233142602",
+    "name": "PriceAI",
+    "description": "AI 订阅渠道比价工具：聚合 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。",
+    "url": "https://github.com/physics-dimension/PriceAI",
+    "image": "",
+    "category": "AI聊天",
+    "source": "github",
+    "date_added": "2026-06-03T06:55:06.438592",
+    "stars": 104,
+    "language": "TypeScript"
   }
 ]
