@@ -592,5 +592,29 @@
     "date_added": "2026-06-03T06:55:06.438592",
     "stars": 104,
     "language": "TypeScript"
+  },
+  {
+    "id": "github_1097695258",
+    "name": "CodexBar",
+    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+    "url": "https://github.com/steipete/CodexBar",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-06-07T06:26:54.734148",
+    "stars": 14337,
+    "language": "Swift"
+  },
+  {
+    "id": "github_1213401441",
+    "name": "Box",
+    "description": "Private on-device AI suite for Android. Fork of Google AI Edge Gallery with llama.cpp, whisper.cpp, ",
+    "url": "https://github.com/jegly/Box",
+    "image": "",
+    "category": "AI图像",
+    "source": "github",
+    "date_added": "2026-06-07T06:26:55.013008",
+    "stars": 545,
+    "language": "Kotlin"
   }
 ]
