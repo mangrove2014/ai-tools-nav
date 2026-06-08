@@ -616,5 +616,17 @@
     "date_added": "2026-06-07T06:26:55.013008",
     "stars": 545,
     "language": "Kotlin"
+  },
+  {
+    "id": "github_211817335",
+    "name": "ChatGPT-airport-tizi-fanqiang",
+    "description": "好用机场推荐，科学上网，梯子，vpn，Clash，V2rayN",
+    "url": "https://github.com/axiba053/ChatGPT-airport-tizi-fanqiang",
+    "image": "",
+    "category": "AI聊天",
+    "source": "github",
+    "date_added": "2026-06-08T06:46:31.694041",
+    "stars": 527,
+    "language": null
   }
 ]
