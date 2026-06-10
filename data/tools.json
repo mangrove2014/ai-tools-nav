@@ -640,5 +640,29 @@
     "date_added": "2026-06-09T06:11:45.526705",
     "stars": 252,
     "language": null
+  },
+  {
+    "id": "github_1107808109",
+    "name": "vscode-unify-chat-provider",
+    "description": "Integrate multiple LLM API providers into VS Code's GitHub Copilot Chat using the Language Model API",
+    "url": "https://github.com/smallmain/vscode-unify-chat-provider",
+    "image": "",
+    "category": "AI音频",
+    "source": "github",
+    "date_added": "2026-06-10T06:26:31.453908",
+    "stars": 554,
+    "language": "TypeScript"
+  },
+  {
+    "id": "github_1139519633",
+    "name": "agent-skills",
+    "description": "A collection of AI agent skills for Clawdbot, Claude Code, Codex",
+    "url": "https://github.com/jdrhyne/agent-skills",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-06-10T06:26:31.797931",
+    "stars": 234,
+    "language": "Python"
   }
 ]
