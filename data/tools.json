@@ -664,5 +664,17 @@
     "date_added": "2026-06-10T06:26:31.797931",
     "stars": 234,
     "language": "Python"
+  },
+  {
+    "id": "github_929868765",
+    "name": "local-deep-research",
+    "description": " ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama",
+    "url": "https://github.com/LearningCircuit/local-deep-research",
+    "image": "",
+    "category": "AI搜索",
+    "source": "github",
+    "date_added": "2026-06-14T06:43:22.453503",
+    "stars": 8468,
+    "language": "Python"
   }
 ]
