@@ -676,5 +676,17 @@
     "date_added": "2026-06-14T06:43:22.453503",
     "stars": 8468,
     "language": "Python"
+  },
+  {
+    "id": "github_1169252093",
+    "name": "anythingmcp",
+    "description": "Build custom connectors for Claude & ChatGPT Apps from any API — no code. Self-hosted MCP gateway fo",
+    "url": "https://github.com/HelpCode-ai/anythingmcp",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-06-15T07:23:45.512395",
+    "stars": 124,
+    "language": "TypeScript"
   }
 ]
