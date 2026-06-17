@@ -688,5 +688,17 @@
     "date_added": "2026-06-15T07:23:45.512395",
     "stars": 124,
     "language": "TypeScript"
+  },
+  {
+    "id": "github_1206260484",
+    "name": "opencode-skill-creator",
+    "description": "OpenCode skill for creating, testing, and optimizing other OpenCode skills. Adapted from Anthropic's",
+    "url": "https://github.com/antongulin/opencode-skill-creator",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-06-17T07:12:58.601829",
+    "stars": 118,
+    "language": "TypeScript"
   }
 ]
