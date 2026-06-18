@@ -700,5 +700,41 @@
     "date_added": "2026-06-17T07:12:58.601829",
     "stars": 118,
     "language": "TypeScript"
+  },
+  {
+    "id": "github_1241959906",
+    "name": "chatgpt-imagegen",
+    "description": "Use your ChatGPT subscription to generate images from the command line — no OPENAI_API_KEY, no gatew",
+    "url": "https://github.com/leeguooooo/chatgpt-imagegen",
+    "image": "",
+    "category": "AI图像",
+    "source": "github",
+    "date_added": "2026-06-18T06:55:01.135991",
+    "stars": 201,
+    "language": "Python"
+  },
+  {
+    "id": "github_1168073473",
+    "name": "CliRelay",
+    "description": "Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud",
+    "url": "https://github.com/kittors/CliRelay",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-06-18T06:55:01.136016",
+    "stars": 794,
+    "language": "Go"
+  },
+  {
+    "id": "github_1129437678",
+    "name": "codex-lb",
+    "description": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-co",
+    "url": "https://github.com/Soju06/codex-lb",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-06-18T06:55:01.136043",
+    "stars": 1969,
+    "language": "Python"
   }
 ]
