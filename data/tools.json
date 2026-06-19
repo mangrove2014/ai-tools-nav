@@ -736,5 +736,17 @@
     "date_added": "2026-06-18T06:55:01.136043",
     "stars": 1969,
     "language": "Python"
+  },
+  {
+    "id": "github_1023330855",
+    "name": "dongtai-sub",
+    "description": "科学上网: 免费！✈️✈️✈️自动抓取Alvin9999的节点🪜🪜🪜，已适配账号迁移🪜🪜🪜，多格式支持。✈️✈️✈️，，，，chatgpt，gemini，claude，grok，x，twitter，y",
+    "url": "https://github.com/wenxig/dongtai-sub",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-06-19T07:09:27.154911",
+    "stars": 182,
+    "language": "TypeScript"
   }
 ]
