@@ -748,5 +748,17 @@
     "date_added": "2026-06-19T07:09:27.154911",
     "stars": 182,
     "language": "TypeScript"
+  },
+  {
+    "id": "github_1012087571",
+    "name": "CLIProxyAPI",
+    "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible",
+    "url": "https://github.com/router-for-me/CLIProxyAPI",
+    "image": "",
+    "category": "AI视频",
+    "source": "github",
+    "date_added": "2026-06-20T06:23:58.685056",
+    "stars": 37931,
+    "language": "Go"
   }
 ]
