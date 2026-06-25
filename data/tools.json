@@ -760,5 +760,29 @@
     "date_added": "2026-06-20T06:23:58.685056",
     "stars": 37931,
     "language": "Go"
+  },
+  {
+    "id": "github_1134426800",
+    "name": "antigravity-awesome-skills",
+    "description": "Installable GitHub library of 1,600+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, ",
+    "url": "https://github.com/sickn33/antigravity-awesome-skills",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-06-25T06:10:02.906082",
+    "stars": 41639,
+    "language": "Python"
+  },
+  {
+    "id": "github_1125663750",
+    "name": "orchestkit",
+    "description": "The Complete AI Development Toolkit for Claude Code — 103 skills, 36 agents, 172 hooks. Production-r",
+    "url": "https://github.com/yonatangross/orchestkit",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-06-25T06:10:02.906128",
+    "stars": 193,
+    "language": "TypeScript"
   }
 ]
