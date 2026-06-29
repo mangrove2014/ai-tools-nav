@@ -784,5 +784,17 @@
     "date_added": "2026-06-25T06:10:02.906128",
     "stars": 193,
     "language": "TypeScript"
+  },
+  {
+    "id": "github_1271627791",
+    "name": "codexpro",
+    "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+    "url": "https://github.com/rebel0789/codexpro",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-06-29T06:51:19.475558",
+    "stars": 1005,
+    "language": "JavaScript"
   }
 ]
