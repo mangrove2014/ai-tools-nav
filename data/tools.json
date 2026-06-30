@@ -796,5 +796,17 @@
     "date_added": "2026-06-29T06:51:19.475558",
     "stars": 1005,
     "language": "JavaScript"
+  },
+  {
+    "id": "github_1223141354",
+    "name": "Hermit",
+    "description": "给一人公司和小团队用的本地 AI Agent 控制台 把 Claude Code、Codex、Gemini、Qoder 等 Agent 放进同一个看板、消息和审查流程里。",
+    "url": "https://github.com/yancyuu/Hermit",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-06-30T06:14:20.900206",
+    "stars": 114,
+    "language": "TypeScript"
   }
 ]
