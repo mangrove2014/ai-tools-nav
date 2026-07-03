@@ -844,5 +844,29 @@
     "date_added": "2026-07-02T06:01:41.502954",
     "stars": 1301,
     "language": "TypeScript"
+  },
+  {
+    "id": "github_1195073443",
+    "name": "tw-formal-writing",
+    "description": "台灣正式文件撰寫 AI Skill：公文、存證信函、陳情書、合約 — 匯入 ChatGPT / Claude / Gemini 即可使用",
+    "url": "https://github.com/Imbad0202/tw-formal-writing",
+    "image": "",
+    "category": "AI写作",
+    "source": "github",
+    "date_added": "2026-07-03T05:55:41.603776",
+    "stars": 128,
+    "language": "Python"
+  },
+  {
+    "id": "github_1109812194",
+    "name": "llama.cpp-hub",
+    "description": "An extension utility for llama.cpp, used with 3090*2 + Strix Halo. llama.cpp的拓展小工具，自用于3090*2 + Strix",
+    "url": "https://github.com/IIIIIllllIIIIIlllll/llama.cpp-hub",
+    "image": "",
+    "category": "AI其他",
+    "source": "github",
+    "date_added": "2026-07-03T05:55:42.438152",
+    "stars": 212,
+    "language": "Java"
   }
 ]
