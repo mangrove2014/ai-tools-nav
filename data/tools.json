@@ -868,5 +868,17 @@
     "date_added": "2026-07-03T05:55:42.438152",
     "stars": 212,
     "language": "Java"
+  },
+  {
+    "id": "github_575321313",
+    "name": "LangBot",
+    "description": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots fo",
+    "url": "https://github.com/langbot-app/LangBot",
+    "image": "",
+    "category": "AI聊天",
+    "source": "github",
+    "date_added": "2026-07-04T05:48:29.120335",
+    "stars": 16652,
+    "language": "Python"
   }
 ]
