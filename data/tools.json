@@ -880,5 +880,17 @@
     "date_added": "2026-07-04T05:48:29.120335",
     "stars": 16652,
     "language": "Python"
+  },
+  {
+    "id": "github_966694777",
+    "name": "airport-access",
+    "description": "机场推荐 | 科学上网 · 魔法上网 · 梯子推荐 · VPN推荐 | 精选稳定机场",
+    "url": "https://github.com/chatgpt-helper-tech/airport-access",
+    "image": "",
+    "category": "AI其他",
+    "source": "github",
+    "date_added": "2026-07-06T06:38:50.314341",
+    "stars": 582,
+    "language": null
   }
 ]
