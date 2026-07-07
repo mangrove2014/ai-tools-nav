@@ -892,5 +892,17 @@
     "date_added": "2026-07-06T06:38:50.314341",
     "stars": 582,
     "language": null
+  },
+  {
+    "id": "github_985839104",
+    "name": "BrowserOS",
+    "description": "🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.",
+    "url": "https://github.com/browseros-ai/BrowserOS",
+    "image": "",
+    "category": "AI聊天",
+    "source": "github",
+    "date_added": "2026-07-07T06:11:00.504322",
+    "stars": 11665,
+    "language": "TypeScript"
   }
 ]
