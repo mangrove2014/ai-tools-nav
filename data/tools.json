@@ -904,5 +904,17 @@
     "date_added": "2026-07-07T06:11:00.504322",
     "stars": 11665,
     "language": "TypeScript"
+  },
+  {
+    "id": "github_585047806",
+    "name": "ChattyPlay-Agent",
+    "description": "🚀 告别多个App！本项目主要基于Python+React+TypeScript+Hono+SQLite3+Redis，打造“All in One”智能工具集。免会员破解爱奇艺、腾讯视频、优酷、抖音、",
+    "url": "https://github.com/P1kaj1uu/ChattyPlay-Agent",
+    "image": "",
+    "category": "AI编程",
+    "source": "github",
+    "date_added": "2026-07-11T05:15:20.890533",
+    "stars": 743,
+    "language": "TypeScript"
   }
 ]
