@@ -916,5 +916,17 @@
     "date_added": "2026-07-11T05:15:20.890533",
     "stars": 743,
     "language": "TypeScript"
+  },
+  {
+    "id": "github_1206029526",
+    "name": "openaccountants",
+    "description": "Open-source Tax Guides for AI agents, reviewed by named CPAs/CAs/EAs. 1,000+ Guides across 190+ juri",
+    "url": "https://github.com/openaccountants/openaccountants",
+    "image": "",
+    "category": "AI聊天",
+    "source": "github",
+    "date_added": "2026-07-13T05:39:46.873880",
+    "stars": 244,
+    "language": "Python"
   }
 ]
